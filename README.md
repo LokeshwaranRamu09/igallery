@@ -242,7 +242,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<tvk/Screenshot (69).png>)
-![alt text](<tvk/Screenshot (70).png>)
+
+
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
